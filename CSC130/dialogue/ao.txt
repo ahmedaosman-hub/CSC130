@@ -1,0 +1,5 @@
+string0*Ahmed: 'This is the worst drawing of a library I have ever seen.'
+string1*Ahmed: 'Why does the shelves look like cake'
+string2*Ahmed: 'Is my shift over yet'
+string3*Ahmed: 'SHHH...'
+string4*Ahmed: 'Bean bag chairs would be really nice to sit on...'
