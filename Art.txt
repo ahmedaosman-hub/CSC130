@@ -1,2 +1,10 @@
 Art/f.png*f0
 Art/tiny.jpg*tiny
+Art/stickFrames/left/stick0.png*stick0
+Art/stickFrames/left/stick1.png*stick1
+Art/stickFrames/left/stick2.png*stick2
+Art/stickFrames/left/stick3.png*stick3
+Art/stickFrames/left/stick4.png*stick4
+Art/stickFrames/left/stick5.png*stick5
+Art/stickFrames/left/stick6.png*stick6
+Art/stickFrames/left/stick7.png*stick7
